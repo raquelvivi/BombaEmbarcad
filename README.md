@@ -1,6 +1,6 @@
 # 🚒 Bomba de Caixa D’água com Detecção de Incêndio (Arduino)
 
-Projeto final da faculdade (Sistemas Embarcados) onde desenvolvemos um circuito de **bomba d’água acionada por relé**, com **detecção de risco de incêndio** usando Arduino.
+Projeto final da disciplina de Sistemas Embarcados da faculdade onde desenvolvemos um circuito de **bomba d’água acionada por relé**, com **detecção de risco de incêndio** usando Arduino.
 
 A bomba só é acionada quando:
 - há **risco de chama/fogo** (fotodiodo + sensor de temperatura)
@@ -33,6 +33,7 @@ O sistema possui **2 modos**, alternados por um único botão:
 
 ## 🖼️ Imagens
 
+<img width="628" height="835" alt="Funky Turing" src="https://github.com/user-attachments/assets/8ccae2b7-36db-40b0-a22d-8c33d1fefee4" />
 <img width="1528" height="635" alt="Funky Turing" src="https://github.com/user-attachments/assets/d33af528-c8d2-49d2-af4f-fbeeab5d1048" />
 <img width="622" height="468" alt="Captura de tela 2026-02-02 002717" src="https://github.com/user-attachments/assets/0d012228-cc0b-4bd2-87dc-a0e0ed6a97fd" />
 <img width="622" height="468" alt="Captura de tela 2026-02-02 002739" src="https://github.com/user-attachments/assets/5242c25a-50b3-4c21-ba38-642530b5349a" />
